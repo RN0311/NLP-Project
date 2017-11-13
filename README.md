@@ -1,2 +1,2 @@
 # NLP-Project
-Finding questions from answers
+Rule based Question Generation Framework to deal with Simple and Complex Sentences.
